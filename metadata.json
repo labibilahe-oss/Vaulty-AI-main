@@ -1,0 +1,9 @@
+{
+  "name": "Vaulty",
+  "description": "A comprehensive financial assistant that tracks expenses, analyzes spending patterns, and provides AI-driven investment insights and personalized budgeting advice using Gemini.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
